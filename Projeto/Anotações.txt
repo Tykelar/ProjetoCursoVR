@@ -1,0 +1,7 @@
+1 – Visualização de dados de ambiente em VR usando como base algum trabalho feito por um grupo em RVA.
+2 – Testes de visualização de planos, etc, com VTK fora de AR para ver cortes e outro tipo de representações/glifos (tenho alguns exemplos simples).
+3 – Tentativa de integração de VTK no Unity usando o asset ActiVizz que adquirimos.
+4 – Se a visualização VR for interessante pode se tentar fazer algo em AR no modelo que têm no ambiente.
+
+
+https://sweet.ua.pt/paulo.dias/RVA/RVA_Assignments_22-23.htm - Prof Paulo Dias Projetos
